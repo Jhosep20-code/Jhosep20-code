@@ -69,7 +69,7 @@ const jhosep: Developer = {
 <td width="50%" valign="top">
 
 **🚀 Programador Junior**
-*Ventamon · Lima (Remoto)* · `02/2026 – 04/2026`
+*Ventamon · Lima (Remoto)* · `03/2026 – 09/2026`
 
 - Desarrollo de funcionalidades en entorno corporativo bajo metodologías ágiles
 - Análisis de requerimientos, implementación, pruebas y corrección de errores
