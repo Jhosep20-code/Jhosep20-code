@@ -179,6 +179,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 IA & Automatización
 
@@ -216,11 +217,15 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 
 ---
 
-## 🐍 Contribution Snake
+## 🧊 Contribuciones en 3D
 
-![Snake animation](https://raw.githubusercontent.com/Jhosep20-code/Jhosep20-code/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
 
-> ⚠️ Esta es la única imagen que **no se activa sola**: necesita que corras una vez el workflow `snake.yml` que te pasé (pestaña **Actions** → selecciónalo → **Run workflow**). Hasta que lo corras, se va a ver rota — es normal, no es un error del README.
+![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
+
+> ⚠️ Igual que el gusano que tenías antes, esta imagen **no se activa sola**: necesita que subas el workflow `profile-3d-contrib.yml` que te paso a `.github/workflows/`, y lo corras una vez desde la pestaña **Actions** → selecciónalo → **Run workflow**. Después se regenera solo todos los días.
 
 ---
 
