@@ -207,16 +207,6 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 
 </div>
 
-### 📈 Actividad de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhosep20-code&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-> 💡 Esta imagen depende de un servicio externo gratuito que a veces se satura — si la ves rota, espera unos minutos y refresca la página; no es un error de tu README.
-
 ---
 
 ## 🐍 Contribution Snake
