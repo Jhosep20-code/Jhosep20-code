@@ -211,21 +211,21 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhosep20-code&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhosep20-code&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 </div>
+
+> 💡 Esta imagen depende de un servicio externo gratuito que a veces se satura — si la ves rota, espera unos minutos y refresca la página; no es un error de tu README.
 
 ---
 
-## 🧊 Contribuciones en 3D
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg)
+![Snake animation](https://raw.githubusercontent.com/Jhosep20-code/Jhosep20-code/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> ⚠️ Igual que el gusano que tenías antes, esta imagen **no se activa sola**: necesita que subas el workflow `profile-3d-contrib.yml` que te paso a `.github/workflows/`, y lo corras una vez desde la pestaña **Actions** → selecciónalo → **Run workflow**. Después se regenera solo todos los días.
 
 ---
 
