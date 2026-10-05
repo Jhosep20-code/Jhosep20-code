@@ -229,7 +229,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 | | Programa | Institución | Período |
 |---|---|---|---|
 | 🎓 | **Ingeniería de Sistemas e Informática** *(10.º ciclo — egreso Dic. 2026)* | Universidad Tecnológica del Perú (UTP) · Huancayo | 2022 – Presente |
-| 🏅 | **Beca por excelencia académica** — Décimo Superior | UTP | 2025 - 2026 |
+| 🏅 | **Beca por excelencia académica** — Décimo Superior | Universidad Tecnológica del Perú (UTP) | 2025 - 2026 |
 
 ---
 
