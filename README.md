@@ -105,7 +105,8 @@ Flujos de integración entre sistemas vía APIs, con pasos de IA para procesar y
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind,bootstrap,vite,python,nodejs,php,mysql,postgres,git,github,vercel,docker,postman&theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind,bootstrap,vite&theme=dark&perline=10)
+![Skills](https://skillicons.dev/icons?i=python,nodejs,php,mysql,postgres,git,github,vercel,docker,postman&theme=dark&perline=10)
 
 </div>
 
@@ -127,13 +128,13 @@ Flujos de integración entre sistemas vía APIs, con pasos de IA para procesar y
 
 ## 🏆 Experiencia
 
-**Programador Junior** — Ventamon · Lima (Remoto) `03/2026 – 09/2026`
+**Programador Junior** — Ventamon · Lima (Remoto) &nbsp;`03/2026 – 09/2026`<br/>
 Desarrollo de funcionalidades bajo metodologías ágiles, análisis de requerimientos, pruebas, refactorización y documentación técnica. 100% remoto, con autonomía y comunicación asíncrona.
 
-**Soporte TI y Gestión Operativa** — Ingenuity · Huancayo, Junín `06/2025 – 12/2025`
+**Soporte TI y Gestión Operativa** — Ingenuity · Huancayo, Junín &nbsp;`06/2025 – 12/2025`<br/>
 Soporte técnico Nivel 1, resolución de incidencias, gestión de inventario tecnológico por codificación SKU.
 
-**Asistente de Docencia — Algorítmica** — UTP · Huancayo `03/2024 – 08/2024`
+**Asistente de Docencia — Algorítmica** — UTP · Huancayo &nbsp;`03/2024 – 08/2024`<br/>
 Reforzamiento de lógica algorítmica y estructuras de datos, debugging en laboratorio.
 
 <div align="center">
@@ -161,10 +162,10 @@ Reforzamiento de lógica algorítmica y estructuras de datos, debugging en labor
 
 ## 🎓 Formación
 
-**Ingeniería de Sistemas e Informática** — Universidad Tecnológica del Perú (UTP) · 2022 – Presente
+**Ingeniería de Sistemas e Informática** — Universidad Tecnológica del Perú (UTP) · 2022 – Presente<br/>
 10.º ciclo (egreso Dic. 2026) · Beca por excelencia académica — Décimo Superior
 
-**Idiomas:** Español (nativo) · Inglés (intermedio)
+**Idiomas:** Español (nativo) · Inglés (intermedio)<br/>
 **Competencias:** Pensamiento analítico · Proactividad · Trabajo en equipo · Autonomía
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
