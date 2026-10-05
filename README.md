@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Jhosep+Michael+Yachi+Garcia;Frontend+Developer+%E2%9A%9B%EF%B8%8F+React+%2B+Next.js;Construyendo+interfaces+rapidas+y+escalables;10mo+ciclo+%E2%80%94+Ing.+de+Sistemas+e+Inform%C3%A1tica+%28UTP%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Jhosep+Michael+Yachi+Garcia;Full+Stack+Developer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Python;Construyendo+productos+completos%2C+del+frontend+a+la+base+de+datos" alt="Typing SVG" />
 
 <br/>
 
@@ -22,9 +22,8 @@
 ```ts
 const jhosep: Developer = {
   name:        "Jhosep Michael Yachi Garcia",
-  role:        "Frontend Developer",
-  stack:       ["React", "Next.js", "TypeScript", "APIs REST"],
-  location:    "Huancayo, Junín · Perú 🇵🇪",
+  role:        "Full Stack Developer",
+  stack:       ["React", "Next.js", "TypeScript", "Python", "APIs REST"],
   university:  "Universidad Tecnológica del Perú (UTP)",
   degree:      "Ing. de Sistemas e Informática — 10.º ciclo",
   graduation:  "Diciembre 2026",
@@ -54,7 +53,7 @@ const jhosep: Developer = {
 </tr>
 </table>
 
-- 💼 Desarrollador frontend enfocado en **React / Next.js**, con experiencia también en backend ligero (Python, Node.js) e integración de bases de datos relacionales
+- 💼 Desarrollador **Full Stack**: interfaces con **React / Next.js** en el frontend, y **Python / Node.js** + bases de datos relacionales en el backend
 - 🎓 Estudiante de **10.º ciclo** de Ingeniería de Sistemas e Informática en la **UTP**, egreso previsto **diciembre 2026**
 - 🚀 Experiencia real en entorno corporativo remoto, con metodologías ágiles y reporte diario de avances
 - 🤖 Incorporo IA en mi flujo de trabajo: asistentes de código (Copilot/ChatGPT/Claude) para acelerar desarrollo y debugging, y modelos de IA dentro de mis automatizaciones con n8n
@@ -70,7 +69,7 @@ const jhosep: Developer = {
 <td width="50%" valign="top">
 
 **🚀 Programador Junior**
-*Nemo · Lima (Remoto)* · `02/2026 – 04/2026`
+*Ventamon · Lima (Remoto)* · `02/2026 – 04/2026`
 
 - Desarrollo de funcionalidades en entorno corporativo bajo metodologías ágiles
 - Análisis de requerimientos, implementación, pruebas y corrección de errores
@@ -152,7 +151,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -165,7 +164,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🗄️ Bases de Datos
@@ -184,7 +183,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 ### 🤖 IA & Automatización
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -221,6 +220,8 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 
 ![Snake animation](https://raw.githubusercontent.com/Jhosep20-code/Jhosep20-code/output/github-contribution-grid-snake-dark.svg)
 
+> ⚠️ Esta es la única imagen que **no se activa sola**: necesita que corras una vez el workflow `snake.yml` que te pasé (pestaña **Actions** → selecciónalo → **Run workflow**). Hasta que lo corras, se va a ver rota — es normal, no es un error del README.
+
 ---
 
 ## 🎓 Formación Académica
@@ -228,7 +229,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 | | Programa | Institución | Período |
 |---|---|---|---|
 | 🎓 | **Ingeniería de Sistemas e Informática** *(10.º ciclo — egreso Dic. 2026)* | Universidad Tecnológica del Perú (UTP) · Huancayo | 2022 – Presente |
-| 🏅 | **Beca por excelencia académica** — Décimo Superior | UTP | — |
+| 🏅 | **Beca por excelencia académica** — Décimo Superior | UTP | 2025 - 2026 |
 
 ---
 
@@ -239,7 +240,7 @@ Diseño de flujos de integración entre sistemas vía APIs y servicios web —in
 
 > **Competencias:** Pensamiento analítico · Proactividad · Atención al detalle · Trabajo en equipo · Autonomía · Comunicación asíncrona
 
-> **Disponibilidad:** Inmediata · 100% remoto · Lunes a viernes, 08:00–18:00
+> **Disponibilidad:** Inmediata 
 
 ---
 
