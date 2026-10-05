@@ -43,7 +43,7 @@ Incorporo IA en mi flujo diario: asistentes de código (Copilot / ChatGPT / Clau
 
 Cinco módulos en producción: Dashboard, POS, Entregas, Inventario y Clientes. Alertas de vencimiento, seguimiento de entregas, pagos y notificaciones de cumpleaños. SSR/SSG optimizado, base en Supabase/PostgreSQL.
 
-🔗 [Demo](https://sistema-floreria.vercel.app) · 📦 [Repo](https://github.com/Jhosep20-code/sistema-floreria)
+📦 [Repo](https://github.com/Jhosep20-code/sistema-floreria)
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@ Cinco módulos en producción: Dashboard, POS, Entregas, Inventario y Clientes. 
 
 Mesas, carrito, cuentas divididas, propinas flexibles (10/15/20% + libre), control de caja y descuento automático de inventario por receta. Dashboard con métricas por hora.
 
-🔗 [Demo](https://sistema-bar-pos.vercel.app) · 📦 [Repo](https://github.com/Jhosep20-code/sistema-bar-pos)
+📦 [Repo](https://github.com/Jhosep20-code/sistema-bar-pos)
 
 </td>
 </tr>
