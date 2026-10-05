@@ -1,21 +1,19 @@
 <div align="center">
 
-# Jhosep Michael Yachi Garcia
-
-### Programdor Junior · React · Next.js · Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Jhosep%20Michael%20Yachi%20Garcia&fontSize=36&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Programador%20Junior%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Python&descAlignY=56&descSize=18&descColor=CBD5E1" width="100%"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jyachigarcia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhosep-michael-yachi-garc%C3%ADa-0b0aa13a1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jhosep20-code)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jhosep20-code&style=flat-square&color=38BDF8&label=views)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
 
-<br/>
+</div>
 
 ```bash
 jhosep@dev:~$ whoami
-> Full Stack Developer — interfaces en React/Next.js, backend en Python/Node.js
+> Programador Junior — interfaces en React/Next.js, backend en Python/Node.js
 
 jhosep@dev:~$ cat estado.txt
 > 10mo ciclo · Ing. de Sistemas e Informática (UTP) · egreso Dic. 2026
@@ -28,7 +26,9 @@ react-nextjs.tsx   apis-rest.ts   automatizacion-n8n.py   ia-asistida.md   etl-p
 
 Incorporo IA en mi flujo diario: asistentes de código (Copilot / ChatGPT / Claude) para acelerar desarrollo y debugging, y modelos de IA dentro de mis automatizaciones con n8n. Contacto: **jyachigarcia@gmail.com**
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
+</div>
 
 ## 🚀 Proyectos
 
@@ -97,7 +97,9 @@ Flujos de integración entre sistemas vía APIs, con pasos de IA para procesar y
 
 </details>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
+</div>
 
 ## 🛠️ Stack
 
@@ -119,11 +121,13 @@ Flujos de integración entre sistemas vía APIs, con pasos de IA para procesar y
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
+</div>
 
 ## 🏆 Experiencia
 
-**Programador Junior** — Ventamon · Lima (Remoto) `02/2026 – 04/2026`
+**Programador Junior** — Ventamon · Lima (Remoto) `03/2026 – 09/2026`
 Desarrollo de funcionalidades bajo metodologías ágiles, análisis de requerimientos, pruebas, refactorización y documentación técnica. 100% remoto, con autonomía y comunicación asíncrona.
 
 **Soporte TI y Gestión Operativa** — Ingenuity · Huancayo, Junín `06/2025 – 12/2025`
@@ -132,7 +136,9 @@ Soporte técnico Nivel 1, resolución de incidencias, gestión de inventario tec
 **Asistente de Docencia — Algorítmica** — UTP · Huancayo `03/2024 – 08/2024`
 Reforzamiento de lógica algorítmica y estructuras de datos, debugging en laboratorio.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
+</div>
 
 ## 📊 Stats
 
@@ -149,7 +155,9 @@ Reforzamiento de lógica algorítmica y estructuras de datos, debugging en labor
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3" width="100%"/>
+</div>
 
 ## 🎓 Formación
 
@@ -159,10 +167,4 @@ Reforzamiento de lógica algorítmica y estructuras de datos, debugging en labor
 **Idiomas:** Español (nativo) · Inglés (intermedio)
 **Competencias:** Pensamiento analítico · Proactividad · Trabajo en equipo · Autonomía
 
----
-
-<div align="center">
-
-*Construyendo productos completos, del frontend a la base de datos.*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
