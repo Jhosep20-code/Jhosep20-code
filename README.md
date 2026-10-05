@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyachigarcia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhosep-michael-yachi-garc%C3%ADa-0b0aa13a1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhosep20-code)
-[![Location](https://img.shields.io/badge/Huancayo%2C_Per%C3%BA-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jhosep20-code&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
 
 </div>
