@@ -2,7 +2,7 @@
 
 # Jhosep Michael Yachi Garcia
 
-### Full Stack Developer · React · Next.js · Python
+### Programdor Junior · React · Next.js · Python
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jyachigarcia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhosep-michael-yachi-garc%C3%ADa-0b0aa13a1)
