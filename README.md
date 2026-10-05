@@ -36,12 +36,13 @@ const jhosep: Developer = {
     "⚛️  Interfaces con React y Next.js (SSG/SSR)",
     "🔌 Integración y consumo de APIs REST",
     "🗄️  Modelado y consultas SQL (MySQL · PostgreSQL · SQL Server)",
-    "🤖 Automatización de procesos con n8n + Python",
-    "📊 ETL y limpieza de datos con Pandas",
+    "🤖 Automatización inteligente de procesos (n8n + Python + IA)",
+    "✨ Desarrollo asistido por IA (Copilot · ChatGPT · Claude)",
+    "📊 Análisis de datos y ETL con Pandas",
   ],
 
   currentStatus: () =>
-    "🔭 Construyendo interfaces en producción y automatizando procesos",
+    "🔭 Construyendo interfaces en producción y automatizando procesos con IA",
 };
 ```
 
@@ -57,6 +58,7 @@ const jhosep: Developer = {
 - 💼 Desarrollador frontend enfocado en **React / Next.js**, con experiencia también en backend ligero (Python, Node.js) e integración de bases de datos relacionales
 - 🎓 Estudiante de **10.º ciclo** de Ingeniería de Sistemas e Informática en la **UTP**, egreso previsto **diciembre 2026**
 - 🚀 Experiencia real en entorno corporativo remoto, con metodologías ágiles y reporte diario de avances
+- 🤖 Incorporo IA en mi flujo de trabajo: asistentes de código (Copilot/ChatGPT/Claude) para acelerar desarrollo y debugging, y modelos de IA dentro de mis automatizaciones con n8n
 - 🧩 Me interesa especialmente la optimización de renderizado, el código limpio y los flujos de automatización
 - 📬 Contacto: <jyachigarcia@gmail.com>
 
@@ -108,35 +110,41 @@ const jhosep: Developer = {
 
 ## 🚀 Proyectos Destacados
 
-### 🌸 Amor en Pétalos — Web App (POS + Inventario)
-`Next.js` `React` `Supabase` `PostgreSQL` `Vercel`
+### 🌸 Amor en Pétalos — Sistema de Florería (POS + Inventario)
+`Next.js` `React` `Supabase` `PostgreSQL` `Tailwind` `Vercel`
 
-Interfaz completa en React sobre Next.js: componentes reutilizables, formularios validados y vistas de punto de venta (POS) e inventario para uso diario del cliente. Renderizado optimizado con SSR/SSG de Next.js para reducir el tiempo de carga en vistas con mayor volumen de datos. Integración de APIs REST con manejo de estados de carga/error y control de acceso por sesión. Desplegada en producción con CI desde GitHub.
+Aplicación completa en producción con cinco módulos: Dashboard, Punto de Venta (POS), Entregas, Inventario y Base de Clientes. Incluye alertas de vencimiento de productos, seguimiento de entregas, procesamiento de pagos y notificaciones de cumpleaños. Renderizado optimizado con SSR/SSG de Next.js, base de datos relacional en Supabase/PostgreSQL y despliegue continuo desde GitHub.
 
-📦 [`sistema-floreria`](https://github.com/Jhosep20-code/sistema-floreria)
+🔗 [Demo en vivo](https://sistema-floreria.vercel.app) · 📦 [`sistema-floreria`](https://github.com/Jhosep20-code/sistema-floreria)
 
-### ⚙️ Panel de Automatización e Integración de Sistemas
-`n8n` `Python` `APIs REST`
+### 🍸 Sistema POS para Bares y Restaurantes
+`React 18` `Vite` `TypeScript` `Tailwind` `Recharts`
 
-Diseño de flujos de integración entre sistemas vía APIs y servicios web, con manejo de errores y reintentos. Extracción y estructuración de datos para su consumo desde la capa de presentación.
+Punto de venta con arquitectura profesional pensado para uso en mesa. Gestión de mesas, carrito de pedidos, cuentas divididas, sistema de propinas flexible (10/15/20% + monto libre), control de caja y descuento automático de inventario según receta. Incluye dashboard con métricas de ventas, transacciones y tendencias por hora, con tema oscuro y acentos dorados.
 
-### 🧮 Motor ETL para Consolidación de Bases de Datos
-`Python` `Pandas` `SQL`
+🔗 [Demo en vivo](https://sistema-bar-pos.vercel.app) · 📦 [`sistema-bar-pos`](https://github.com/Jhosep20-code/sistema-bar-pos)
 
-Procesamiento, limpieza y cruce masivo de bases de datos (CSV y Excel), con validación de resultados para asegurar la integridad de la información.
+### 📊 Portfolio Analyst — Análisis Cuantitativo de Inversiones
+`Python` `Pandas` `yfinance` `Matplotlib`
+
+Herramienta que descarga dos años de datos históricos de acciones (AAPL, GOOGL, TSLA, MSFT, AMZN frente al benchmark SPY) y calcula métricas de riesgo de nivel institucional: Sharpe Ratio, Sortino Ratio, Beta (CAPM), Maximum Drawdown y ponderación óptima de cartera por varianza inversa. Genera gráficos con estética tipo terminal Bloomberg.
 
 📦 [`portfolio-analyst`](https://github.com/Jhosep20-code/portfolio-analyst)
 
+### ⚙️ Automatización Inteligente de Procesos (IA + ETL)
+`n8n` `Python` `APIs REST` `IA / LLMs`
+
+Diseño de flujos de integración entre sistemas vía APIs y servicios web —incluyendo pasos con modelos de IA para procesar y estructurar información— con manejo de errores y reintentos. Incluye también un motor de limpieza y cruce masivo de bases de datos (CSV/Excel) con validación de integridad de resultados.
+
 ### 📁 Otros repositorios
 
-| Repo | Lenguaje |
-|---|---|
-| [`sistema-bar-pos`](https://github.com/Jhosep20-code/sistema-bar-pos) | JavaScript |
-| [`Utp-focus`](https://github.com/Jhosep20-code/Utp-focus) | JavaScript |
-| [`Ingenuity`](https://github.com/Jhosep20-code/Ingenuity) | HTML |
-| [`Zoomalia`](https://github.com/Jhosep20-code/Zoomalia) | HTML |
+| Repo | Descripción | Lenguaje |
+|---|---|---|
+| [`Ingenuity`](https://github.com/Jhosep20-code/Ingenuity) | Tienda online de tecnología (estilo Apple Store): catálogo, carrito y checkout | HTML/CSS/JS |
+| [`Zoomalia`](https://github.com/Jhosep20-code/Zoomalia) | Sitio de e-commerce/servicios con login, tienda y carrito | HTML/CSS/JS |
+| [`Utp-focus`](https://github.com/Jhosep20-code/Utp-focus) | Proyecto web académico | JavaScript |
 
-> 💡 Estos repos todavía no tienen descripción en GitHub — vale la pena agregarles una línea corta en **Settings → About** de cada uno para que se vean completos cuando alguien entra.
+> 💡 `Ingenuity`, `Zoomalia` y `Utp-focus` todavía no tienen descripción ni README en GitHub — vale la pena agregarles una línea corta en **Settings → About** de cada uno (y opcionalmente un README) para que se vean completos cuando alguien entra.
 
 ---
 
@@ -150,6 +158,8 @@ Procesamiento, limpieza y cruce masivo de bases de datos (CSV y Excel), con vali
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Integración
 
@@ -172,9 +182,15 @@ Procesamiento, limpieza y cruce masivo de bases de datos (CSV y Excel), con vali
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 Automatización & Datos
+### 🤖 IA & Automatización
 
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 📊 Datos & Reportes
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -204,10 +220,6 @@ Procesamiento, limpieza y cruce masivo de bases de datos (CSV y Excel), con vali
 
 ## 🐍 Contribution Snake
 
-<!--
-  Esta imagen se genera automáticamente una vez que actives el workflow
-  "snake.yml" que te mando aparte. Hasta entonces se verá vacía/rota.
--->
 ![Snake animation](https://raw.githubusercontent.com/Jhosep20-code/Jhosep20-code/output/github-contribution-grid-snake-dark.svg)
 
 ---
